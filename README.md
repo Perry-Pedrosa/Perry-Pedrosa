@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Perry
 - 👀 I’m interested in statistical modelling 
 - 🌱 I’m currently learning Python, advanced Power BI, 
-- 💞️ I’m looking to collaborate on American Football based statistical modelling
+- 💞️ I’m looking to collaborate on American Football & Wildlife Conservation based statistical modelling
 - 😄 Pronouns: He/Him
 
 <!---
